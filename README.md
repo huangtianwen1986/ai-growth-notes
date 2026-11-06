@@ -4,12 +4,13 @@
 
 由 [黄天文](https://github.com/huangtianwen1986) 整理。这里积累 AI 与增长的工作表、公开实践记录和可复用工具。
 
-当前是起步版：两张工作表、一份实践记录模板。工作表帮助组织判断；具体方法是否有效，要由实际使用与结果来验证。
+当前包含两张工作表、一份实践记录模板，并关联 [天文增长诊断 Skill](https://github.com/huangtianwen1986/tianwen-growth-skill) 公开试用版。工作表帮助组织判断；具体方法是否有效，要由实际使用与结果来验证。
 
 ## 先选一个问题
 
 | 你的问题 | 从这里开始 | 填完得到什么 |
 | --- | --- | --- |
+| 增长卡在哪里，先验证什么？ | [天文增长诊断 Skill](https://github.com/huangtianwen1986/tianwen-growth-skill) | 有证据的候选瓶颈与下一步实验 |
 | AI 项目应该先做什么？ | [AI 项目决策卡](templates/ai-project-decision.md) | 一个有目标、成本、对照和停止条件的最小试验 |
 | 电话数字员工怎样才算能上岗？ | [电话数字员工验收卡](templates/voice-agent-acceptance.md) | 场景测试表、业务结果口径和异常交接条件 |
 | 一次实践如何留下可用的经验？ | [实践记录模板](templates/experiment-log.md) | 能回到证据、允许被修正的一条记录 |
